@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/BepInEx-Required-blue" alt="BepInEx Required">
-  <img src="https://img.shields.io/badge/Plugin-Version_1.0-brightgreen" alt="Game Version">
+  <img src="https://img.shields.io/badge/Plugin-Version_1.0.0-brightgreen" alt="Game Version">
 </p>
 
 **Improved Stamina** is a mod that enhances the stamina regeneration system in the game. Instead of the default recharge behavior, this mod introduces a **dynamic stamina regen mechanic**:
