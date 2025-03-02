@@ -1,7 +1,7 @@
 <h1 align="center">Improved Stamina</h1>
 
 <p align="center">
-  <img src="assets/icon.png" width="128" height="128">
+  <img src="https://github.com/survivalq/ImprovedStamina/blob/main/Assets/icon.png" width="128" height="128">
 </p>  
 
 <p align="center">
