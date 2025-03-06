@@ -30,6 +30,7 @@ This mod does not alter any other movement mechanics.
     <tr>
       <th>Setting</th>
       <th>Default Value</th>
+      <th>Max Value</th>
       <th>Description</th>
     </tr>
   </thead>
@@ -37,16 +38,19 @@ This mod does not alter any other movement mechanics.
     <tr>
       <td><code>MaxRegenRate</code></td>
       <td>8.0</td>
+      <td>25.0</td>
       <td>The maximum stamina regeneration multiplier.</td>
     </tr>
     <tr>
       <td><code>RegenRampUpTime</code></td>
       <td>3.0</td>
+      <td>25.0</td>
       <td>The time (in seconds) it takes for stamina regeneration to reach max speed.</td>
     </tr>
     <tr>
       <td><code>DelayBeforeRegen</code></td>
       <td>0.5</td>
+      <td>25.0</td>
       <td>The delay (in seconds) after stopping sprinting before regeneration starts.</td>
     </tr>
   </tbody>
