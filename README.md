@@ -6,11 +6,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/BepInEx-Required-blue" alt="BepInEx Required">
-  <img src="https://img.shields.io/badge/Plugin-Version_1.1.0-brightgreen" alt="Plugin Version">
+  <img src="https://img.shields.io/badge/Plugin-Version_1.2.0-brightgreen" alt="Plugin Version">
   <img src="https://img.shields.io/thunderstore/dt/Flopper/ImprovedStamina" alt="Downloads">
 </p>
 
-**Improved Stamina** is a mod that enhances the stamina regeneration system in the game. Instead of the default recharge behavior, this mod introduces a **dynamic stamina regen mechanic**:
+This is a mod that enhances the stamina regeneration system in the game. Instead of the default recharge behavior, this mod introduces a **dynamic stamina regen mechanic**:
 
 #### Default Configuration:
 - **Gradual Stamina Regeneration:** After stopping sprinting, stamina starts regenerating after **0.5 seconds**.
@@ -52,6 +52,12 @@ This mod does not alter any other movement mechanics.
       <td>0.5</td>
       <td>25.0</td>
       <td>The delay (in seconds) after stopping sprinting before regeneration starts.</td>
+    </tr>
+    <tr>
+      <td><code>SprintDrainMultiplier</code></td>
+      <td>1.0</td>
+      <td>10.0</td>
+      <td>Multiplier for stamina cost when sprinting. 1.0x is the game's default.</td>
     </tr>
   </tbody>
 </table>
